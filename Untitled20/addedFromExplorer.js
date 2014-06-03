@@ -11,3 +11,5 @@
 03/06/2014  12:21                21 newFile.js
 17/04/2014  12:11                68 Permissions.waPerm
 this file is ignored !
+
+Changes should not be commit !! 
