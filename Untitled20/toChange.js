@@ -1,2 +1,3 @@
 ﻿"NewFile";
 "oki";
+"changedFromMac";
