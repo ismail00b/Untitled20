@@ -10,16 +10,4 @@
 17/04/2014  12:11               267 Model.waModel
 03/06/2014  12:21                21 newFile.js
 17/04/2014  12:11                68 Permissions.waPerm
-03/06/2014  11:35             1ÿ645 Settings.waSettings
-03/06/2014  12:33               344 SymbolTable.Match
-03/06/2014  12:33           197ÿ120 SymbolTable.waSym
-03/06/2014  12:33         6ÿ357ÿ504 SymbolTable.waSymData
-03/06/2014  11:35    <DIR>          Themes
-03/06/2014  12:21                40 toChange.js
-03/06/2014  12:25                15 toCheck.js
-03/06/2014  12:07                14 toDelete.js
-17/04/2014  12:11               578 Untitled20.waProject
-03/06/2014  11:35    <DIR>          WebFolder
-03/06/2014  11:35    <DIR>          Widgets
-              12 fichier(s)        6ÿ557ÿ616 octets
-               6 R‚p(s)  690ÿ657ÿ509ÿ376 octets libres
+this file is ignored !
